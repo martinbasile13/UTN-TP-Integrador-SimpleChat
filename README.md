@@ -163,7 +163,7 @@ Este proyecto es parte de un trabajo académico, pero sugerencias y mejoras son 
 
 ## 🎨 Créditos
 
-- **Logo de la aplicación:** Basado en el ícono de [Storybook](https://storybook.js.org/) obtenido de [svg.app](https://svg.app) - Una excelente colección de íconos SVG gratuitos
+- **Logo de la aplicación:** Basado en el ícono de [Storybook](https://storybook.js.org/) obtenido de [svg.app](https://svgl.app) - Una excelente colección de íconos SVG gratuitos
 - **Diseño:** Inspirado en WhatsApp Web para familiaridad del usuario
 
 ## 👨‍💻 Autor
