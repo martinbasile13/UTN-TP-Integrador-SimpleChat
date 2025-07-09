@@ -81,10 +81,6 @@ src/
 ### Comandos de instalación
 
 ```bash
-# Clonar el repositorio
-git clone https://github.com/martinbasile13/UTN-TP-Integrador-SimpleChat.git
-cd UTN-TP-Integrador-SimpleChat
-
 # Instalar dependencias
 npm install
 
@@ -144,15 +140,26 @@ export default {
 
 ## 📸 Screenshots
 
-*Próximamente se agregarán capturas de pantalla*
+### 🏠 Pantalla Principal
+| Modo Claro | Modo Oscuro |
+|------------|-------------|
+| ![Home Light](./public/screenshots/home-light.png) | ![Home Dark](./public/screenshots/home-dark.png) |
+
+### 💬 Vista de Chat
+![Chat View](./public/screenshots/chat-view.png)
+
+### 📱 Responsive Design
+<img src="./public/screenshots/mobile-view.png" alt="Mobile View" width="300">
+
+### ✨ Características destacadas
+- **Cambio de tema dinámico** - Switch entre light/dark mode
+- **Interfaz responsive** - Se adapta desde móviles hasta desktop
+- **Avatares personalizados** - Fotos reales de usuarios
+- **Timestamps automáticos** - Hora de envío de mensajes
 
 ## 🤝 Contribución
 
 Este proyecto es parte de un trabajo académico, pero sugerencias y mejoras son bienvenidas.
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
 
 ## 👨‍💻 Autor
 
